@@ -95,7 +95,7 @@ flam-edge-detection-swayam/
 - TypeScript compiler for web viewer development
 
 ### Installation Steps
-git clone https://github.com/SwayamPandey19/flam-edge-detection-swayam.git
+git clone https://github.com/SwayamPandey19/flam-edge-detection-swayam.git](https://github.com/sp52972003/flam-edge-detection-swayam/tree/main
 cd flam-edge-detection-swayam
 
 Open project in Android Studio

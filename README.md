@@ -1,6 +1,3 @@
-# **COMPLETE README CONTENT - COPY EVERYTHING BELOW**
-
-```markdown
 # FLAM Edge Detection - Android OpenCV Assessment
 
 **Candidate**: Swayam Pandey  
@@ -29,11 +26,10 @@ Real-time edge detection Android application demonstrating integration of OpenCV
 - **TypeScript**: Interactive web viewer with real-time performance analytics
 
 ### System Architecture
-```
 Android Camera → OpenCV C++ Processing → OpenGL Rendering → Display
-                            ↓
-                    TypeScript Web Viewer
-```
+↓
+TypeScript Web Viewer
+
 
 ## Research Background
 
@@ -69,16 +65,15 @@ Android Camera → OpenCV C++ Processing → OpenGL Rendering → Display
 
 ## Repository Structure
 
-```
 flam-edge-detection-swayam/
-├── README.md                    # Project documentation
-├── native-lib.cpp              # OpenCV C++ implementation
-├── TECHNICAL_SPECS.md          # Technical specifications
-├── demo/                       # Demonstration materials
-│   ├── README.md              # Demo documentation
-│   └── screenshots/           # Application screenshots
-└── docs/                      # Additional documentation
-```
+├── README.md # Project documentation
+├── native-lib.cpp # OpenCV C++ implementation
+├── TECHNICAL_SPECS.md # Technical specifications
+├── demo/ # Demonstration materials
+│ ├── README.md # Demo documentation
+│ └── screenshots/ # Application screenshots
+└── docs/ # Additional documentation
+
 
 ## Assignment Requirements Compliance
 
@@ -100,22 +95,23 @@ flam-edge-detection-swayam/
 - TypeScript compiler for web viewer development
 
 ### Installation Steps
-```
 git clone https://github.com/SwayamPandey19/flam-edge-detection-swayam.git
 cd flam-edge-detection-swayam
-# Open project in Android Studio
-# Install NDK components when prompted
-# Sync project dependencies
-# Build and deploy to Android device
-```
+
+Open project in Android Studio
+Install NDK components when prompted
+Sync project dependencies
+Build and deploy to Android device
+
 
 ### Web Viewer Setup
-```
+
 npm install -g typescript
 tsc --init
-# Modify TypeScript source files as needed
-# Compile and serve web content
-```
+
+Modify TypeScript source files as needed
+Compile and serve web content
+
 
 ## Algorithm Optimization
 
@@ -192,18 +188,3 @@ tsc --init
 - GitHub: github.com/SwayamPandey19
 
 **Project Status**: Complete implementation ready for technical review and live demonstration
-```
-
-***
-
-## **INSTRUCTIONS:**
-
-1. **Select ALL the content above** (from `# FLAM Edge Detection` to the end)
-2. **Copy it** (Ctrl+C)
-3. **Go to your GitHub README.md**
-4. **Click "Edit"**
-5. **Delete everything** in the current README
-6. **Paste this complete content**
-7. **Scroll down and click "Commit changes"**
-
-**This is the complete, professional README that covers everything FLAM needs to see!**
